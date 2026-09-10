@@ -1,7 +1,9 @@
-# [Project Name]
+# Smart Agricultural Fencing System
 
 ## Overview
-[1–2 sentences: what the project does and the problem it solves]
+[The Smart Agricultural Fencing System is an intelligent, sensor-based solution designed to protect farmlands from animal intrusion and unauthorized entry.
+
+It combines hardware sensors with a real-time monitoring dashboard, allowing farmers to track boundary activity and environmental conditions remotely. The system aims to reduce crop damage, improve farm security, and provide a low-cost, scalable solution for modern agriculture.
 
 ## About This Project
 This project was developed as part of the **Artificial Intelligence Internship** 
@@ -10,35 +12,31 @@ conducted in association with the National Internship Portal, Ministry of Educat
 Government of India (Aug 2026 – Sep 2026).
 
 ## Features
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+🚧 Smart boundary intrusion detection
+📡 Real-time sensor data monitoring
+📊 Web-based dashboard for field status
+⚠️ Instant alerts on suspicious activity
 
 ## Tech Stack
 - Language: [e.g. Python]
-- Libraries/Frameworks: [e.g. pandas, scikit-learn, Flask]
-- Database: [if any]
-- Tools: [e.g. VS Code, Git]
+- Libraries/Frameworks: [e.g. pandas, Figma, Vercel]
+- Tools: VS Code, Git
 
-## Installation & Setup
-\`\`\`bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
-python main.py
-\`\`\`
+
 
 ## How It Works
-[Short paragraph — the logic/flow of your program]
+-Protection against animal intrusion
+-Unauthorized entry detection
+-Remote farm boundary monitoring
+-Smart agriculture infrastructure
 
-## Project Structure
+## System Architecture
 \`\`\`
-repo-name/
-├── main.py
-├── requirements.txt
-├── docs/
-│   └── Internship_Report.pdf
-└── README.md
+Sensors are placed along the farm boundary.
+Sensors continuously monitor movement and conditions.
+Data is transmitted to a central processing unit.
+The dashboard displays real-time field status.
+Alerts are triggered when intrusion or abnormal activity is detected.
 \`\`\`
 
 ## Internship Documentation
